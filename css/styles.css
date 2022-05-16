@@ -9,10 +9,6 @@ h1 {
   font-weight: 800;
 }
 
-.download-button {
-  margin: 5% 3% 5% 0;
-}
-
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -27,6 +23,7 @@ h1 {
 .navbar {
   padding: 0 0 4.5rem 0;
 }
+
 .navbar-brand {
   font-size: 2rem;
   font-family: "Ubuntu";
@@ -44,8 +41,11 @@ h1 {
 
 /* End Navigation Bar  */
 
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
 .iphone {
   transform: rotate(25deg);
-  margin: 75px 0 75px 50px;
   width: 60%;
 }
