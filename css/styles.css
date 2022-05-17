@@ -53,5 +53,20 @@ h1 {
 /* Features */
 
 .features-icon {
+  color: #ef8172;
+  font-size: 3rem;
+  margin-bottom: 3%;
+}
+
+.features-icon:hover {
   color: #ff4c68;
+}
+
+.features-h3 {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.features-p {
+  color: #8f8f8f;
 }
