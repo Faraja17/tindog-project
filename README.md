@@ -40,7 +40,7 @@ Here is [my practice codeply](https://www.codeply.com/p/d47o8stMog).
 
 ### Links
 
-- Live Site URL: [name of site](URL)
+- Live Site URL: [Codeply](https://www.codeply.com/p/d47o8stMog)
 
 ## My process
 
@@ -48,13 +48,20 @@ Here is [my practice codeply](https://www.codeply.com/p/d47o8stMog).
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 
+- Bootstrap 5 classes 
 - CSS 3 properties
 
 ### What I learned
 
-how to navigate the bootstrap documentation.  How to add a navbar with a toggler (hamburger menu)
-
+- how to navigate the bootstrap documentation  
+- how to use codeply
+- how to add a navbar with a toggler (hamburger menu)
+- how to create a fluid container
+- how to implement and style Bootstrap classes
+- a review of Bootstrap grid
+- a review of favicons
+- how to style favicons
 
 ### Continued development
 
@@ -66,6 +73,8 @@ how to navigate the bootstrap documentation.  How to add a navbar with a toggler
 - []() - annotation
 - 
 ## Author
+
+Faraja Thompson
 
 - [My Personal Website](https://faraja17.github.io/my-website/)
 - [My Blog: Teacher to Techie](https://faraja17.github.io/)
