@@ -39,7 +39,7 @@ h1 {
   font-weight: 400;
 }
 
-/* End Navigation Bar  */
+/* Title  */
 
 .download-button {
   margin: 5% 3% 5% 0;
@@ -48,4 +48,10 @@ h1 {
 .iphone {
   transform: rotate(25deg);
   width: 60%;
+}
+
+/* Features */
+
+.features-icon {
+  color: #ff4c68;
 }
