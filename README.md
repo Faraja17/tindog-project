@@ -17,7 +17,7 @@ The Complete 2022 Web Development Bootcamp, Sections 6 and 7: Introductory and I
 - [Acknowledgments](#acknowledgments) 
 
 ## Overview
-This project gave me the chance to assess how much I have learned, as this is my second Bootstrap course.  The Bootstrap challenges were just right for my level.  I am developing a love/hate relationship with Bootstrap, though.  I love the effects, but I hate that the grid is so heavy on HTML styling with all of its numerous Bootstrap classes. The more rows I create, the more time-consuming (and buggy) it is to make the individual adjustments.  Maybe, with more experience, I'll have a better idea of what I want beforehand.  Overall, this is a very nice and engaging course.  It has just the right balance of lecture and hands-on practice.
+This project gave me the chance to assess how much I have learned, as this is my second Bootstrap course.  The Bootstrap challenges were just right for my level.  I am developing a love/hate relationship with Bootstrap, though.  I love the effects, but I hate that the grid is so heavy on HTML styling with its numerous Bootstrap classes. The more rows I create, the more time-consuming (and buggy) it is to make the individual adjustments.  Maybe, with more experience, I'll have a better idea of what I want beforehand.  Overall, this is a very nice and engaging course.  It has just the right balance of lecture and hands-on practice.
 
 
 
