@@ -21,19 +21,20 @@ This project gave me the chance to assess how much I have learned, as this is my
 
 
 
-### Screenshots
-| <b>Mobile View</b>| 
-|:--:|
-| ![My Solution for Mobile]() |
+### Screenshots 
+Click images for fullscreen view.
 
-| <b>Desktop View</b>| 
-|:--:|
-| ![My Solution for Desktop]() |
+| <b>Mobile</b>                                              |                                                                 |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+|Top                                                              |Bottom                                                                 |
+| [![My Solution for Mobile - top](https://github.com/Faraja17/tindog-project/blob/main/tindog-mobile.png?raw=true)](https://github.com/Faraja17/tindog-project/blob/main/tindog-mobile.png?raw=true) | [![My Solution for Mobile - bottom](https://user-images.githubusercontent.com/104348636/169171065-ce4705d4-19f5-431b-bd34-17ee6d3255e0.png)](https://user-images.githubusercontent.com/104348636/169171109-ed5ad936-a096-448d-8de6-a0313c010e84.png) |
 
-| <b>More Screenshots</b> | 
-|:--:|
-| [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
-| [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
+
+| <b>Desktop</b>                                             |                                                                 |
+|:---------------------------------------------------------------:|:---------------------------------------------------------------:|
+|Top                                                              |Bottom                                                                 |
+| [![My Solution for Desktop - top](https://github.com/Faraja17/tindog-project/blob/main/tindog-desktop.png?raw=true)](https://github.com/Faraja17/tindog-project/blob/main/tindog-desktop.png?raw=true) | [![My Solution for Desktop - bottom](https://github.com/Faraja17/tindog-project/blob/main/tindog-desktoop2.png?raw=true)](https://github.com/Faraja17/tindog-project/blob/main/tindog-desktoop2.png?raw=true) |
+
 
 
 ### Links
