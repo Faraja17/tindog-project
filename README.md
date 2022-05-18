@@ -1,9 +1,7 @@
 # Tindog Bootstrap Project
 The Complete 2022 Web Development Bootcamp, Sections 6 and 7: Introductory and Intermediate Bootstrap 4 - Dr. Angela Yu
 
-I will work on my project here and document my progress.
-
-Here is [my practice codeply](https://www.codeply.com/p/d47o8stMog).
+5-18-22: I have completed section 6 of this project, which involved styling a given template using Bootstrap.  I will definitely circle back to work on section 7 soon!
 
 ## Table of contents
 
@@ -19,7 +17,7 @@ Here is [my practice codeply](https://www.codeply.com/p/d47o8stMog).
 - [Acknowledgments](#acknowledgments) 
 
 ## Overview
-
+This project gave me the chance to assess how much I have learned.  The Bootstrap challenges were just right for my level.  I am developing a love/hate relationship with Bootstrap, though.  I love the effects, but I hate that the grid is so heavy on HTML styling with all the Bootstrap classes. The more row I create, the more time-consuming (and buggy) it is to make the individual adjustments.  Maybe, with more experience, I'll have a better idea of what I want beforehand.  Overall, this is a very nice and engaging class.  It has just the right balance of lecture and hands-on practice.
 
 
 
