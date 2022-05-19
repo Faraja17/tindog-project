@@ -73,7 +73,7 @@ Note: While completing this READ ME, I learned more about creating tables in Mar
 ```
 
 ### Continued development
-I look forward to completing Section 7, and learning Bootstrap at an intermediate level as I finish up my Tindog landing page.
+I look forward to completing Section 7, and learning Bootstrap at an intermediate level as I finish up my Tindog landing page.  My learning plan is to first learn more Python, JavaScript, Data Structures and Algorithms, complete a couple of Python and JavaScript projects, and learn React.  I'll come back to HTML and CSS/Bootstrap once that is accomplished, or perhaps I will take breaks from my learning plan now and then to continue working on this and other HTML and CSS/Bootstrap projects, including the very first website that I built--it still needs a Bootstrap navbar!
 
 
 ### Useful resources
