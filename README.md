@@ -66,7 +66,7 @@ The final challenge of Section 6 was to style the features section independently
 - a review of Bootstrap grid
 - a review of Font Awesome icons
 - how to style Font Awesome icons
--a review of documenting code with comments
+- a review of documenting code with comments
 
 ```
 Note: While completing this READ ME, I learned more about creating tables in Markdown in order to place my images side by side in the Screenshots section. 
