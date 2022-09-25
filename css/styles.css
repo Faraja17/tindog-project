@@ -59,6 +59,13 @@ h2 {
 
 /* Features */
 
+.features {
+  position: absolute;
+  z-index: 1;
+  top: 600px;
+  background-color: #fff;
+}
+
 .features-icon {
   color: #ef8172;
   font-size: 4rem;
@@ -107,4 +114,15 @@ h2 {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
