@@ -9,6 +9,13 @@ h1 {
   font-weight: 800;
 }
 
+h2 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -69,4 +76,19 @@ h1 {
 
 .features-p {
   color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
