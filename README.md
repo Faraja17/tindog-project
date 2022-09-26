@@ -39,7 +39,7 @@ Click images for fullscreen view.
 
 ### Links
 
-- Live Site URL: [Codeply](https://www.codeply.com/p/d47o8stMog)
+- Live Site URL: [Codepen](https://codepen.io/faraja17/full/xxjPWVL)
 
 ## My process
 5-18-22 I started out learning how to create a Bootstrap nav bar that transforms into a responsive toggler (the three-lined "hamburger" menu that appears on mobile devices).  While performing this task, I clearly saw growth in myself.  When I had tried to add a toggler to my loc-journey website after my first Bootstrap class about a month ago, I had difficulty finding guidance.  For some reason, I did not thoroughly check the Bootstrap documentation.  I found information on W3Schools, but the directions did not work for me.  I assumed that it was because the directions were for Bootstrap 3 while I was working with Bootstrap 5.  I also assumed that it had something to do with JQuery, which was not included with Bootstrap 5.  Upon reflection, I now suspect that my problem, similarly to several other problems that I had styling that site, was a result of browser defaults.  
